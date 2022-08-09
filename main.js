@@ -5,6 +5,6 @@ videoTres.addEventListener("click", (e) => {
         title: '<strong>Video tres</strong>',
         // icon: 'info',
         html:
-            '<video src="burger.mp4" autoplay width="450" height="450"></video>',
+            '<video src="burger.mp4" autoplay></video>',
     })
 })
